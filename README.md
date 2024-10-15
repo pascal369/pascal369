@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pascal369
+- 👀 I’m interested in FreeCAD 
+- 🌱 I’m currently learning FreeCAD macros
+- 💞️ - 📫 How to reach me nanyo999@yahoo.co.jp
+- 😄 - ⚡
+- <!---
+--->
